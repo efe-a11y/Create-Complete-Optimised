@@ -1,0 +1,26 @@
+# Minecraft Game Directories & Logs
+logs/
+crash-reports/
+saves/
+resourcepacks/
+shaderpacks/
+screenshots/
+usercache.json
+usernamecache.json
+
+# Local configurations / Instance tracking
+.mixin.out/
+local/
+options.txt
+optionsof.txt
+hotbar.nbt
+
+# Launcher specific files (Prism, CurseForge, Modrinth app data)
+.minecraft/
+instance.cfg
+mmc-pack.json
+modrinth.index.json
+
+# System files
+.DS_Store
+Thumbs.db
