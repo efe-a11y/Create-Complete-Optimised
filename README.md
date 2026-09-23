@@ -4,7 +4,7 @@
 A performance-optimized, lightweight fork of **Create: Complete by Shalz**, configured to deliver a smooth gameplay experience on lower-end PCs. 
 
 ## 🔗 Links
-* **Download the Modpack:** [Modrinth Page](https://modrinth.com) *(A Placeholder will replace when its out)*
+* **Download the Modpack:** [Modrinth Page](https://modrinth.com) *(A Placeholder, will replace when its out)*
 * )*
 * **Original Project:** [Create: Complete by Shalz on Modrinth](https://modrinth.comproject/rs3WgJvM)
 
